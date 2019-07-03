@@ -1,0 +1,93 @@
+19-05-19 21:24:51: Player Name: a IP address: 192.168.1.8 connected
+19-05-19 21:24:57: Player Name: b IP address: 192.168.1.8 connected
+19-05-19 21:24:59: ===============
+                    New Game 
+                   ===============
+19-05-19 21:24:59: This game correct answer is 8
+19-05-19 21:24:59: a is added to the game
+19-05-19 21:24:59: b is added to the game
+19-05-19 21:25:01: a inputs 4, 3 attempts left
+19-05-19 21:25:01: Send to a: The guess number 4 is smaller than the generated number, 3 chances left.
+19-05-19 21:25:02: a inputs 3, 2 attempts left
+19-05-19 21:25:02: Send to a: The guess number 3 is smaller than the generated number, 2 chances left.
+19-05-19 21:25:02: a inputs 2, 1 attempts left
+19-05-19 21:25:02: Send to a: The guess number 2 is smaller than the generated number, 1 chances left.
+19-05-19 21:25:03: a inputs 5, 0 attempts left
+19-05-19 21:25:03: Send to a: Game over, the answer is 8
+19-05-19 21:25:05: b inputs 3, 3 attempts left
+19-05-19 21:25:05: Send to b: The guess number 3 is smaller than the generated number, 3 chances left.
+19-05-19 21:25:06: b inputs 8, 2 attempts left
+19-05-19 21:25:06: Send to b: Congratulation, the correct answer is 8
+19-05-19 21:25:06: Ranking 
+b wins by 2 attempts
+a lose
+
+19-05-19 21:25:06: -----------------------------------
+19-05-19 21:25:06: Player Name: a IP address: 192.168.1.8 connected
+19-05-19 21:25:06: Player Name: b IP address: 192.168.1.8 connected
+19-05-19 21:26:22: Player Name: a IP address: 192.168.1.8 connected
+19-05-19 21:26:24: ===============
+                    New Game 
+                   ===============
+19-05-19 21:26:24: This game correct answer is 7
+19-05-19 21:26:24: a is added to the game
+19-05-19 21:26:26: a inputs 3, 3 attempts left
+19-05-19 21:26:26: Send to a: The guess number 3 is smaller than the generated number, 3 chances left.
+19-05-19 21:26:27: a inputs 4, 2 attempts left
+19-05-19 21:26:27: Send to a: The guess number 4 is smaller than the generated number, 2 chances left.
+19-05-19 21:26:28: a inputs 6, 1 attempts left
+19-05-19 21:26:28: Send to a: The guess number 6 is smaller than the generated number, 1 chances left.
+19-05-19 21:26:28: a inputs 7, 0 attempts left
+19-05-19 21:26:28: Send to a: Congratulation, the correct answer is 7
+19-05-19 21:26:28: Ranking:|a wins by 4 attempts
+19-05-19 21:26:28: -----------------------------------
+19-05-19 21:26:28: Player Name: a IP address: 192.168.1.8 connected
+19-05-19 21:26:35: Player Name: a IP address: 192.168.1.8 left
+19-05-19 21:26:35: Player Name: a IP address: 192.168.1.8 lost connection
+19-05-19 21:28:56: Player Name: 啊 IP address: 192.168.1.8 connected
+19-05-19 21:29:05: ===============
+                    New Game 
+                   ===============
+19-05-19 21:29:05: This game correct answer is 1
+19-05-19 21:29:05: 啊 is added to the game
+19-05-19 21:29:07: 啊 inputs 4, 3 attempts left
+19-05-19 21:29:07: Send to 啊: The guess number 4 is bigger than the generated number, 3 chances left.
+19-05-19 21:29:10: 啊 inputs 1, 2 attempts left
+19-05-19 21:29:10: Send to 啊: Congratulation, the correct answer is 1
+19-05-19 21:29:10: Ranking:|啊 wins by 2 attempts
+19-05-19 21:29:10: -----------------------------------
+19-05-19 21:29:10: Player Name: 啊 IP address: 192.168.1.8 connected
+19-05-19 21:34:07: Player Name: a IP address: 192.168.1.8 connected
+19-05-19 21:34:14: ===============
+                    New Game 
+                   ===============
+19-05-19 21:34:14: This game correct answer is 6
+19-05-19 21:34:14: a is added to the game
+19-05-19 21:34:21: a inputs 4, 3 attempts left
+19-05-19 21:34:21: Send to a: The guess number 4 is smaller than the generated number, 3 chances left.
+19-05-19 21:34:23: a inputs 3, 2 attempts left
+19-05-19 21:34:23: Send to a: The guess number 3 is smaller than the generated number, 2 chances left.
+19-05-19 21:34:24: a inputs 2, 1 attempts left
+19-05-19 21:34:24: Send to a: The guess number 2 is smaller than the generated number, 1 chances left.
+19-05-19 21:34:28: a inputs 5, 0 attempts left
+19-05-19 21:34:28: Send to a: Game over, the answer is 6
+19-05-19 21:34:28: Ranking:|a lose
+19-05-19 21:34:28: -----------------------------------
+19-05-19 21:34:28: Player Name: a IP address: 192.168.1.8 connected
+19-05-19 21:35:05: Player Name: a IP address: 192.168.1.8 connected
+19-05-19 21:35:09: ===============
+                    New Game 
+                   ===============
+19-05-19 21:35:09: This game correct answer is 7
+19-05-19 21:35:09: a is added to the game
+19-05-19 21:35:29: a inputs 3, 3 attempts left
+19-05-19 21:35:29: Send to a: The guess number 3 is smaller than the generated number, 3 chances left.
+19-05-19 21:35:30: a inputs 4, 2 attempts left
+19-05-19 21:35:30: Send to a: The guess number 4 is smaller than the generated number, 2 chances left.
+19-05-19 21:35:31: a inputs 5, 1 attempts left
+19-05-19 21:35:31: Send to a: The guess number 5 is smaller than the generated number, 1 chances left.
+19-05-19 21:35:32: a inputs 6, 0 attempts left
+19-05-19 21:35:32: Send to a: Game over, the answer is 7
+19-05-19 21:35:32: Ranking:|a lose
+19-05-19 21:35:32: -----------------------------------
+19-05-19 21:35:32: Player Name: a IP address: 192.168.1.8 connected
